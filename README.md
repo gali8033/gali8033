@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Lindgren (@gali8033)
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning everything
 - 📫 How to reach me: gabriel.lindgren.8033@student.uu.se
 
 <!---
