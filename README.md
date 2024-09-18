@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Lindgren (@gali8033)
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning iOS development
-- 📫 How to reach me: gabriel.lindgren.8033@student.uu.se
+- 👀 I’m interested in app and web development
+- 🌱 I’m currently working as an iOS developer at Bontouch.
+- 📫 How to reach me: gabriel.lindgren@bontouch.com
 
 <!---
 gali8033/gali8033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
