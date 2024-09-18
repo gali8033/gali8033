@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Lindgren (@gali8033)
 - 👀 I’m interested in app and web development
-- 🌱 I’m currently working as an iOS developer at Bontouch.
+- 🌱 I’m currently working as an iOS developer at Bontouch
 - 📫 How to reach me: gabriel.lindgren@bontouch.com
 
 <!---
